@@ -1,9 +1,6 @@
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
-
 <div align="center">
   <h1>Mawacu</h1>
   <h3>An ordinary person who's easily gets bored!</h3>
@@ -77,29 +74,15 @@
 ###
 
 <details>
-  <summary>See more</summary>
+  <summary>GitHub Friends</summary>
 
   ###
 
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
+  * [Firman](https://github.com/firrthecreator)
+  * [Ren Aldridge](https://github.com/Renlikesmoon)
 
 </details>
 
 Made with :heart: by <a href="https://github.com/mawacu" target="_blank">Mawacu</a>
 
-&#xa0;
-
 <a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
